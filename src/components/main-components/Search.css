@@ -1,0 +1,12 @@
+.input-div{
+    height: 8rem;
+    color: #090909;
+}
+
+.input-color::placeholder{
+    color: white;
+}
+
+.hide-scroll::-webkit-scrollbar{
+    display: none;
+}

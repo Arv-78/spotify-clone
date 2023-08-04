@@ -1,0 +1,10 @@
+.form-range::-webkit-slider-thumb {
+  opacity: 0;
+  height: 15px;
+  background-color: rgb(151, 151, 151);
+}
+
+.form-range::-webkit-slider-runnable-track {
+  background-color: white;
+  height: 4px;
+}

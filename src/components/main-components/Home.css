@@ -1,0 +1,7 @@
+.text-color{
+    color: #1ED760;
+}
+
+.hideScroll::-webkit-scrollbar{
+    display: none;
+}

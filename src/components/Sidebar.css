@@ -1,0 +1,22 @@
+.side-items {
+    height: 2.5rem;
+}
+.side-items:hover {
+    background-color: white;
+    color: #1ED760;
+    border-radius: 0 16px 16px 0;   
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.user-list{
+    height: 4rem;
+}
+
+.user-list:hover {
+    background-color: white;
+    color: #1ED760;
+    border-radius: 0 16px 16px 0;   
+}
